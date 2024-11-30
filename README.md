@@ -1,6 +1,6 @@
 # Merchant Investigation Dashboard
 
-A powerful, intuitive dashboard for monitoring and analyzing risk factors related to merchant transactions. This dashboard allows users to view risk metrics, assess potential threats, and take preventive actions to mitigate risks.
+A powerful, intuitive and responsive dashboard for monitoring and analyzing risk factors related to merchant transactions. This dashboard allows users to view risk metrics, assess potential threats, and take preventive actions to mitigate risks.
 
 ## Features
 
