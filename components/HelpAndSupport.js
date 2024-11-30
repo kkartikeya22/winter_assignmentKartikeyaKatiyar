@@ -23,7 +23,7 @@ const HelpAndSupport = () => {
         </a>
       </div>
 
-      <p className="mt-4">For urgent issues, call us at: (123) 456-7890</p>
+      <p className="mt-4 text-black">For urgent issues, call us at: (123) 456-7890</p>
     </div>
   );
 };
