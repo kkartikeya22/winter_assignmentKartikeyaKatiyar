@@ -20,6 +20,14 @@ A powerful, intuitive and responsive dashboard for monitoring and analyzing risk
 - **Headless UI**: A set of completely unstyled, fully accessible UI components.
 - **React-Toastify**: For showing notifications and alerts.
 
+### Here are few images
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192719.png"/>
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192733.png"/>
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192745.png"/>
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192753.png"/>
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192801.png"/>
+<img src="https://github.com/kkartikeya22/winter_assignmentKartikeyaKatiyar/blob/main/images/Screenshot%202024-12-01%20192811.png"/>
+
 ## Installation
 
 ### Prerequisites
